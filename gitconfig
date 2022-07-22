@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = albgutgam@gmail.com
+	name = Alberto Gutierrez
